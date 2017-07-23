@@ -1,0 +1,6 @@
+# TestRedisSerializer
+
+将这个项目导入到你的IDE，保证你的redis服务已经启动，然后修改redis.properties文件，关于redis的相关配置修改成你的redis配置参数，
+当然这个文件里面本身的redis配置就是redis服务在第一次安装时的默认配置，也就是说如果你没有修改过redis的配置，比如说添加密码或者修改端口什么的
+那基本上只要保证redis服务启动就可以看到项目所描述的效果。
+具体博客介绍：http://blog.csdn.net/notsaltedfish/article/details/75948281
